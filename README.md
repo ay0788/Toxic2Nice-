@@ -13,7 +13,7 @@ Transform toxic or rude messages into polite, professional, or funny responses w
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Toxic2Nice.git
+git clone https://github.com/ay0788/Toxic2Nice.git
 cd Toxic2Nice
 pip install -r requirements.txt
 streamlit run app.py

@@ -2,15 +2,15 @@
 
 Transform toxic or rude messages into polite, professional, or funny responses with personalized tone selection — now enhanced with emotion detection!
 
-## ✨ Features
+##  Features
 
-- 🔁 Rephrase toxic messages with Empathetic, Professional, or Funny styles
-- 🎭 Detect emotional tone using an AI model
-- ⚡ Lightweight and easy to deploy
-- 💬 Powered by Streamlit UI for interactivity
+-  Rephrase toxic messages with Empathetic, Professional, or Funny styles
+-  Detect emotional tone using an AI model
+-  Lightweight and easy to deploy
+-  Powered by Streamlit UI for interactivity
 
 
-## 🛠️ Installation
+## 🛠 Installation
 
 ```bash
 git clone https://github.com/ay0788/Toxic2Nice.git

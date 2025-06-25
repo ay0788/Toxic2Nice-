@@ -2,7 +2,7 @@
 
 ![Toxic2Nice Banner](https://github.com/ay0788/Toxic2Nice-/blob/main/toxic2nice.png)
 
-**Toxic2Nice** is an AI-powered web application that detects toxic language in real-time and rephrases it into a more polite, respectful, and constructive version — all while preserving the intended message. It helps foster healthier digital communication by transforming negativity into empathy using the power of NLP.
+**Toxic2Nice** is an AI-powered web application that detects toxic language in real-time and rephrases it into a more polite, respectful, and constructive version; all while preserving the intended message. It helps foster healthier digital communication by transforming negativity into empathy using the power of NLP.
 
 ---
 
@@ -16,10 +16,10 @@
 
 - 🔍 **Toxicity Detection** using fine-tuned transformer models (e.g., BERT, RoBERTa, or DistilBERT).
 - ✨ **Polite Rewriting** with text generation or style transfer models.
-- 🧠 Intelligent suggestions tailored to user input context.
-- 🌐 User-friendly web interface for testing and live interaction.
-- 📊 Analytics on toxicity levels for educational feedback.
-- 🌍 Multilingual potential (roadmap feature).
+- 🧠 **Intelligent suggestions** tailored to user input context.
+- 🌐 **User-friendly** web interface for testing and live interaction.
+- 📊 **Analytics on toxicity** levels for educational feedback.
+- 🌍 **Multilingual** potential (roadmap feature).
 
 ---
 
@@ -27,11 +27,11 @@
 
 | Layer         | Stack / Tools                             |
 |---------------|--------------------------------------------|
-| Frontend      | HTML, CSS,  |
-| Backend       | Flask / FastAPI                            |
-| NLP Models    | HuggingFace Transformers (e.g., BERT, GPT) |
-| Toxicity Detection | Trained classifier using Jigsaw or Detoxify |
-| Text Rewriting | Custom or pre-trained GPT-2 / T5          |
+| **Frontend**      | HTML, CSS,  |
+| **Backend**       | Flask / FastAPI                            |
+| **NLP Models**    | HuggingFace Transformers (e.g., BERT, GPT) |
+| **Toxicity Detection** | Trained classifier using Jigsaw or Detoxify |
+| **Text Rewriting** | Custom or pre-trained GPT-2 / T5          |
 
 ---
 ## 📰 Learn More

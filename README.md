@@ -36,7 +36,7 @@
 ---
 ## 📰 Learn More
 
-For a deep dive into how Toxic2Nice was built — including the tools, models, architecture, and future vision — check out the full Medium article:
+For a deep dive into how Toxic2Nice was built; including the tools, models, architecture, and future vision, check out the full Medium article:
 
 👉 [Detox Your Words with AI: Building Toxic2Nice to Transform Online Conversations](https://medium.com/@sdouraya3/detox-your-words-with-ai-building-toxic2nice-to-transform-online-conversations-d87f8646f20e)
 

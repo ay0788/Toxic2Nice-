@@ -1,4 +1,5 @@
-# Toxic2Nice: Detox Your Words with AI
+# Toxic2Nice
+**Detox Your Words with AI**
 
 ![Toxic2Nice Banner](https://github.com/ay0788/Toxic2Nice-/blob/main/toxic2nice.png)
 

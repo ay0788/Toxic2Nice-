@@ -1,9 +1,9 @@
 # Toxic2Nice
-**Detox Your Words with AI**
+
 
 ![Toxic2Nice Banner](https://github.com/ay0788/Toxic2Nice-/blob/main/toxic2nice.png)
 
-**Toxic2Nice** is an AI-powered web application that detects toxic language in real-time and rephrases it into a more polite, respectful, and constructive version; all while preserving the intended message. It helps foster healthier digital communication by transforming negativity into empathy using the power of NLP.
+**Toxic2Nice** is an AI-powered web application that detects toxic language in real-time and rephrases it into a more polite, respectful, and constructive version; all while preserving the intended message. It helps foster healthier digital communication by transforming negativity into empathy using the power of NLP. " **Detox Your Words with AI** "
 
 ---
 

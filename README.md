@@ -7,8 +7,6 @@
 
 ---
 
-## 🌟 Slogan
-
 **"Toxic2Nice — Turning Harsh Words into Human Connection."**
 
 ![Toxic2Nice Banner](https://github.com/ay0788/Toxic2Nice-/blob/main/codetoflow.png) 
